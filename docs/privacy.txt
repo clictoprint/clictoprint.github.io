@@ -14,9 +14,6 @@ Clictoprint discloses personal information only to those of its employees, contr
 
 Clictoprint will not rent or sell personal information to anyone. Other than to its employees, contractors and affiliated organizations, as described here, Clictoprint discloses personal information only in response to court order or other governmental request, or when Clictoprint believes in good faith that disclosure is reasonably necessary to protect the property or rights of Clictoprint, third parties or the public at large.
 
-Security
-Your account is protected by a password for your privacy and security. You need to prevent unauthorized access to your account and personal information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
-
 Lost Consignments
 Cictoprint will take utmost care to ensure safe and conscious delivery of the consignment to reach our customers. In the event of the courier or any third-party agent losing the consignment, Clictoprint will reprint and redispatch the consignment. However, Clictoprint cannot take responsibility on the contents of the lost package.
 
@@ -31,11 +28,11 @@ Although most changes are likely to be minor, Clictoprint may change its Privacy
 Reasons for returns:
 
 Courier Returns:
-The default return address is Printrove Products Private Limited, No. 89, Grand Northern Trunk Road, Building No. 6, 2nd Floor, Madhavaram, Chennai 600 110 for all courier returns that were not delivered to the buyer and were marked as ‘Returning to Origin’. When we receive the returned shipment, it will be updated in your merchant account and an update will be sent to you by email registered with us. Using a custom return address is not possible currently since not all the courier companies allow it.
+The default return address is 42, KB Dasan Road, Teynampet, Chennai 600 018 for all courier returns that were not delivered to the buyer and were marked as ‘Returning to Origin’. When we receive the returned shipment, it will be updated in your merchant account and an update will be sent to you by email registered with us. Using a custom return address is not possible currently since not all the courier companies allow it.
 
 Incorrect Address – If the address provided by you for delivery is found to be incorrect by the courier personnel, and if an address correction is requested, you will be charged Rs. 65 + GST for correcting the address after the shipment has started travelling.
 
-Delivery not claimed – If the product is not delivered due to any reason and it eventually goes unclaimed upon subsequent attempts and is returned back to us, you will be liable for the cost of a re-delivery to yourself or your end customer. You will also be charged a reverse shipping fee which is equal to the forward shipping fee in such cases. In the case of Cash on Delivery (COD) orders, the amount of Rs. 50 charged will be refunded back.
+Delivery not claimed – If the product is not delivered due to any reason and it eventually goes unclaimed upon subsequent attempts and is returned back to us, you will be liable for the cost of a re-delivery to yourself or your end customer. You will also be charged a reverse shipping fee which is equal to the forward shipping fee in such cases.
 
 Returns Policy
 
