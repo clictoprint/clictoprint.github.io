@@ -287,6 +287,81 @@
   <!-- Custom scripts for this template -->
   <script src="js/new-age.min.js"></script>
 
+  <!-- Chat Integration -->
+  <script src="https://snippets.freshchat.com/js/fc-pre-chat-form-v2.js"></script>
+  <script>
+    var preChatTemplate = {
+      //Form header color and Submit button color.
+      mainbgColor: '#0aa4db',
+      //Form Header Text and Submit button text color.
+      maintxColor: '#fff',
+      //Chat Form Title
+      heading: 'Clictoprint Chat',
+      //Chat form Welcome Message
+      textBanner: 'We can\'t wait to talk to you. But first, please take a couple of moments to tell us a bit about yourself.',
+      //Submit Button Label.
+      SubmitLabel: 'Start Chat',
+      //Fields List - Maximum is 5
+      //All the values are mandatory and the script will not work if not available.
+      fields : {
+        field1 : {
+          //Type for Name - Do not Change
+          type: "name",
+          //Label for Field Name, can be in any language
+          label: "Name",
+          //Default - Field ID for Name - Do Not Change
+          fieldId: "name",
+          //Required "yes" or "no"
+          required: "yes",
+          //Error text to be displayed
+          error: "Please Enter a valid name"
+        },
+        field2 : {
+          //Type for Email - Do Not Change
+          type: "email",
+          //Label for Field Email, can be in any language
+          label: "Email",
+          //Default - Field ID for Email - Do Not Change
+          fieldId: "email",
+          //Required "yes" or "no"
+          required: "yes",
+          //Error text to be displayed
+          error: "Please Enter a valid Email"
+        },
+        field3 : {
+          //Type for Phone - Do Not Change
+          type: "phone",
+          //Label for Field Phone, can be in any language
+          label: "Phone",
+          //Default - Field ID for Phone - Do Not Change
+          fieldId: "phone",
+          //Required "yes" or "no"
+          required: "yes",
+          //Error text to be displayed
+          error: "Please Enter a valid Phone Number"
+        }
+      }
+    };
+    window.fcSettings = {
+      token: "602484b4-69c7-48c2-be5d-df9a28e4c99c",
+      host: "https://wchat.in.freshchat.com",
+      config: {
+        cssNames: {
+          //The below element is mandatory. Please add any custom class or leave the default.
+          widget: 'custom_fc_frame',
+          //The below element is mandatory. Please add any custom class or leave the default.
+          expanded: 'custom_fc_expanded'
+        }
+      },
+      onInit: function() {
+        console.log('widget init');
+        fcPreChatform.fcWidgetInit(preChatTemplate);
+      }
+    };
+  </script>
+  <script src="https://wchat.freshchat.com/js/widget.js" async></script>
+
+
 </body>
 
 </html>
