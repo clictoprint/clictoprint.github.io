@@ -1,8 +1,8 @@
-Is there any deposit or subscription fees to use ClicToPrint?
+Is there any deposit or subscription fees to use clictoprint?
 No, there is no monthly fees or subscriptions. It’s a pay and use solution.
 
 How can I create my account?
-You don’t have to create an account to use ClicToPrint. Log on clictoprint.com and access the form, fill your contact information, upload the data you wish to print and submit the form. ClicToPrint will process your order and ship it to the address you have provided.
+You don’t have to create an account to use clictoprint. Log on clictoprint.com and access the form, fill your contact information, upload the data you wish to print and submit the form. clictoprint will process your order and ship it to the address you have provided.
 
 Can I order a sample before placing an order?
 No, you cannot order samples. However, you can order for a volume as less as one copy first and on receipt and satisfaction, place a fresh order for the intended volume.
@@ -15,14 +15,14 @@ Which formats are supported for artworks uploads?
 You can upload only PDFs right now. Keep watching for this space as we increase our product line and formats.
 
 How safe is my content / design?
-Your content and designs are completely safe on our servers. Our processes are highly secure and automated with least manual intervention (like mail share, downloads, etc). ClicToPrint shields your data from being copied, duplicated, stored anywhere across its processes.
+Your content and designs are completely safe on our servers. Our processes are highly secure and automated with least manual intervention (like mail share, downloads, etc). clictoprint shields your data from being copied, duplicated, stored anywhere across its processes.
 
-Can I design the artwork in CickToPrint’s editor?
+Can I design the artwork in clictoprint’s editor?
 No, right now we do not have an editor available in the website. You can only upload the PDF-file and get a printout of the same.
 
 Orders
 How do I place an order?
-Placing an order is really simple. After entering the website, you have to choose the PRINT section and provide information, choose specifications and upload the file / artwork. You will receive a link with your order summary and link to make payment. Once you pay, the order is deemed active.
+Placing an order is really simple. After entering the website, you have to choose the PRINT-NOW section and provide information, choose specifications and upload the file / artwork. Confirm the details and click on the Pay-Now button to make the payment. Once you pay, the order is deemed active.
 
 How fast can I get my shipment delivered to me?
 We assure a 24-hour delivery for all orders within Chennai. For orders outside Chennai, we will fulfill the orders within 3-4 days.
@@ -61,10 +61,10 @@ What should I do if the shipping address is wrong or needs to be changed?
 You can write to our help desk at clictoprint@gmail.com and if your shipment has not yet been dispatched, we can update the address. If your shipment has already been handed over for dispatch, then we cannot do anything. You have to place a fresh order or advise us to re-dispatch.
 
 When and how do I pay?
-Once you upload the artwork, you will receive a link to your mobile number to make payment. The payment link will be active for 24 hours within which you have to pay and confirm the order. Your shipment will be processed only after you make the payment.
+Once you upload the artwork and specifications, you will be able to see the final amount displayed and Pay-Now button. The payment should be completed to confirm the order. Your shipment will be processed only after you make the payment.
 
 Will I receive an invoice?
 Yes, an invoice will be sent to your email after you make the payment. It will have a detailed break up of services availed.
 
 Will I be charged a tax?
-Yes, all applicable taxes will be charged to you while availing the services of Clictoprint.
+Yes, all applicable taxes will be charged to you while availing the services of clictoprint.
