@@ -1,0 +1,20 @@
+Product Quality issues:
+In the case of issues related to misprinting or damaged or defective items sent to the customer, it must be communicated to clictoprint within 2 days upon the delivery of the product. For items lost in shipment, claims, if any, must be communicated not later than 10 days after the estimated delivery date.
+
+Broken / Damaged products received:
+In the case of damaged products, like torn paper, dirtied paper, etc., all issues have to be raised within 2 days from the date of delivery of the product. In order to raise a replacement request, send us pictures of the damage along with the original packaging in which the product was received by the customer, showing the shipping label and the customer details on it clearly for verification.
+
+Rejection by Customer:
+Since the product is customized to customer requirement, any such return or rejection must be channeled through you. We do not refund for any modification in order for size or color and hence such modifications are to be offered at your expense and discretion. A new order, at your expense, needs to be placed for an updated modification if you choose to accept or offer exchanges to your end customers.
+
+Action on Returned Orders:
+Orders that are returned due to incorrect addresses or rejected by customers are marked as ‘Returned to origin’ (RTO) under the Manage Returns page in the merchant panel once it is received by clictoprint. clictoprint would store the returns for a period of 30 days from the date of the order being marked as RTO and the merchant can choose to Reship the order to himself or any other address within this period of 30 days, after which we would donate the order to charity. The merchant will not be allowed to take any action on the returned orders after this period.
+
+Cancellations
+Cancellations by the customer – In case we receive a cancellation notice and the order has not been processed by us, we shall cancel the order immediately and refund the entire amount back to the mode of payment used during print-now checkout. If we have already printed and shipped the product, we will not be able to approve the cancellation request. In such cases, the product follows the normal lifecycle process.
+
+Cancellation by clictoprint
+Under certain circumstances it might not be possible for us to accept an order and we may be compelled to cancel the same. We reserve the right to refuse or cancel any order for any reason at our sole discretion. Some situations that may result in your order being cancelled include limitations on quantities available for purchase, inaccuracies or errors in product or pricing information, or problems identified by our credit and fraud avoidance department. We may also ask for additional verification or information before accepting any order. We will contact you if all or any portion of your order is cancelled or if additional information is required to accept your order. If your order is cancelled after you are charged, the said amount will be reversed back to the mode of payment used during print-now checkout.
+
+Manner of Refund:
+If the order is cancelled and refund is approved, for any reason the refund is awarded in the form of Bank Credit. clictoprint will refund the said amount to the account details provided by the customer within the next 15 days. The customer agrees not to dispute the decision made by clictoprint and accept clictoprint’s decision regarding the cancellation.
