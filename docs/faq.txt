@@ -1,3 +1,7 @@
+~~~~
+General
+~~~~
+
 What is our return and exchange policy?
 
     Product Quality issues:
@@ -36,7 +40,13 @@ You don’t have to create an account to use clictoprint. Log on clictoprint.com
 Can I order a sample before placing an order?
 No, you cannot order samples. However, you can order for a volume as less as one copy first and on receipt and satisfaction, place a fresh order for the intended volume.
 
+
+
+
+~~~~
 Layout & Design
+~~~~
+
 How can I send the design files for printing?
 You do not have to email us the design file for every order. You can upload the design as a PDF and our systems will print it.
 
@@ -49,29 +59,54 @@ Your content and designs are completely safe on our servers. Our processes are h
 Can I design the artwork in clictoprint’s editor?
 No, right now we do not have an editor available in the website. You can only upload the PDF-file and get a printout of the same.
 
+
+
+~~~~
 Orders
+~~~~
+
 How do I place an order?
 Placing an order is really simple. After entering the website, you have to choose the PRINT-NOW section and provide information, choose specifications and upload the file / artwork. Confirm the details and click on the Pay-Now button to make the payment. Once you pay, the order is deemed active.
 
-How fast can I get my shipment delivered to me?
-We assure a 24-hour delivery for all orders within Chennai. For orders outside Chennai, we will fulfill the orders within 3-4 days.
-
-How can I track an order?
-Once the product is dispatched, the tracking ID of the respective courier company will be shared to you via SMS & Email. You can click on the provided link and track your order.
+Are there any custom branding options available for my brand?
+We don’t have any custom branding options as such. However you can add your brand’s logo to your artwork which will be printed as a part of your design.
 
 
-Shipping
+
+
+~~~~~
+Accounts and Billing
+~~~~~
+
+Is there COD option?
+No, there is no COD option. You have to pay upfront and place the order.
+
+When and how do I pay?
+Once you upload the artwork and specifications, you will be able to see the final amount displayed and Pay-Now button. The payment should be completed to confirm the order. Your shipment will be processed only after you make the payment.
+
+Will I receive an invoice?
+Yes, an invoice will be sent to your email after you make the payment. It will have a detailed break up of services availed.
+
+Will I be charged a tax?
+Yes, all applicable taxes will be charged to you while availing the services of clictoprint.
+
+
+
+
+~~~~~
+
+Shipping Queries
+
+~~~~~
+
 Which courier companies do you use to ship the orders?
 We ship all your orders through our delivery partners. They will deliver the shipment to you on our behalf within the committed timeline.
 
-Which area of Tamil Nadu do you deliver to?
+Where in India do you deliver to?
 We can deliver to any Pin code that our couriers can service.
 
 How can I know if a particular pin code is serviceable or not?
 Our customer service team will contact you if in case your location of delivery is not serviceable. We will seek an alternate address to deliver, or an alternate method of delivery.
-
-Are there any custom branding options available for my brand?
-We don’t have any custom branding options as such. However you can add your brand’s logo to your artwork which will be printed as a part of your design.
 
 Do you support international shipping?
 No, right now we do not support shipping outside India.
@@ -82,18 +117,23 @@ If a defected or a misprinted product reaches the customer, we replace it at no 
 What if the package is lost in transit?
 If the package is lost in transit, we will reprint all the products in that specific order and have it shipped once again.
 
-Accounts and Billing
-Is there COD option?
-No, there is no COD option. You have to pay upfront and place the order.
+How can I track an order?
+Once the product is dispatched, the tracking ID of the respective courier company will be shared to you via SMS & Email. You can click on the provided link and track your order.
+
+How fast can I get my shipment delivered to me?
+We assure a 24-hour delivery for all orders within Chennai, Tamil Nadu. For orders outside Chennai, we will fulfill the orders within 3-4 days.
 
 What should I do if the shipping address is wrong or needs to be changed?
-You can write to our help desk at clictoprint@gmail.com and if your shipment has not yet been dispatched, we can update the address. If your shipment has already been handed over for dispatch, then we cannot do anything. You have to place a fresh order or advise us to re-dispatch.
+You can write to our help desk at support@clictoprint.com and if your shipment has not yet been dispatched, we can update the address. If your shipment has already been handed over for dispatch, then we cannot do anything. You have to place a fresh order or advise us to re-dispatch.
 
-When and how do I pay?
-Once you upload the artwork and specifications, you will be able to see the final amount displayed and Pay-Now button. The payment should be completed to confirm the order. Your shipment will be processed only after you make the payment.
+What is the default return address for all deliveries?
+The default return address is 42, KB Dasan Road, Teynampet, Chennai 600 018 for all courier returns that were not delivered to the buyer and were marked as ‘Returning to Origin’.
 
-Will I receive an invoice?
-Yes, an invoice will be sent to your email after you make the payment. It will have a detailed break up of services availed.
+What happens to packages that were returned back to clictoprint?
+When we receive the returned shipment, it will be updated in your merchant account and an update will be sent to you by email registered with us. Using a custom return address is not possible currently since not all the courier companies allow it. However we will reach out to the registered email address to take further action.
 
-Will I be charged a tax?
-Yes, all applicable taxes will be charged to you while availing the services of clictoprint.
+What if the delivery address given while placing the order was incorrect?
+If the address provided by you for delivery is found to be incorrect by the courier personnel, and if an address correction is requested, you will be charged Rs. 65 + GST for correcting the address after the shipment has started traveling.
+
+What if you missed your delivery?
+If the product is not delivered due to any reason and it eventually goes unclaimed upon subsequent attempts and is returned back to us, you will be liable for the cost of a re-delivery to yourself or your end customer. You will also be charged a reverse shipping fee which is equal to the forward shipping fee in such cases.
