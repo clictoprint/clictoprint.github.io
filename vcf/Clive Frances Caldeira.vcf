@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 11.7//EN
+N:;Clive Frances Caldeira;;;
+FN:Clive Frances Caldeira
+ORG:clictoprint;
+EMAIL;type=INTERNET;type=WORK;type=pref:clive@clictoprint.com
+TEL;type=WORK;type=VOICE;type=pref:+91 93429 61660
+item1.ADR;type=WORK;type=pref:;;42 KB Dasan Road\nTeynampet;Chennai;Tamil Nadu;600 018;India
+item1.X-ABADR:in
+item2.URL;type=pref:https://clictoprint.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
